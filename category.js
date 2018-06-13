@@ -10,13 +10,23 @@ window.OPENSHIFT_CONSTANTS.SERVICE_CATALOG_CATEGORIES.unshift({
   label: "SEBShift",
   subCategories: [
     {
-      id: "sebshift",
-      label: "SEBShift",
+      id: "jenkins",
+      label: "jenkins",
       icon: "icon-wildfly",
       tags: [
         "sebshift",
         "jenkins",
         "wildfly"
+      ]
+    },
+	{
+      id: "sebshift",
+      label: "SEBShift",
+      icon: "icon-go-gopher",
+      tags: [
+        "sebshift",
+        "go",
+		"golang"
       ]
     }
   ]
