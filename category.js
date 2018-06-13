@@ -25,7 +25,7 @@ window.OPENSHIFT_CONSTANTS.SERVICE_CATALOG_CATEGORIES.unshift({
       icon: "icon-go-gopher",
       tags: [
         "sebshift",
-        "go",
+		"go",
 		"golang"
       ]
     }
