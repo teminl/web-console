@@ -15,7 +15,10 @@ window.OPENSHIFT_CONSTANTS.SERVICE_CATALOG_CATEGORIES.unshift({
       icon: "icon-openshift",
       tags: [
         "sebshift",
-        "jenkins"
+        "jenkins",
+		"MongoDB",
+		"Python",
+		"Node.js"
       ]
     }
   ]
