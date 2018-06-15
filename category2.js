@@ -19,6 +19,8 @@ window.OPENSHIFT_CONSTANTS.SERVICE_CATALOG_CATEGORIES.unshift({
 		"MongoDB",
 		"Python",
 		"Node.js"
+		"jhpliberty",
+		"tomcat"
       ]
     }
   ]
