@@ -28,9 +28,7 @@ window.OPENSHIFT_CONSTANTS.SERVICE_CATALOG_CATEGORIES.unshift({
         "jenkins",
 		"Python",
 		"Node.js"
-		"Liberty",
 		"tomcat",
-		"JaaS",
 		"OpenJDK"
       ]
     }
